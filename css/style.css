@@ -5,13 +5,6 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
-  color: yellow;
-  position: absolute;
-  top: 25px;
- 
-} 
-
 body {
   background: rgb(0, 0, 0);
   width: 100vw;
