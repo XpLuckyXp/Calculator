@@ -84,7 +84,7 @@ button:hover {
 
 @media (max-width: 600px) {
   button {
-    width: 3rem;
+    width: 5rem;
   }
   .scroll {
     width: 16rem;
